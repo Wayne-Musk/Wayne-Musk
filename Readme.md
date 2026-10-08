@@ -16,8 +16,6 @@ they can be turned into useful and reliable tools.
 
 ## Technical Skills
 
-### Languages
-
 `FDE` · `AI Agent` · `Python` · `Java` · `Golang` · `SQL` · `Linux`
 
 ## Experience
